@@ -1,11 +1,11 @@
 # Sipeed Longan Nano projects repository
 [Sipeed Longan Nano](https://longan.sipeed.com/en/) is a microcontroller board developed by [Sipeed](https://www.sipeed.com/).
 
-The Longan Nano board uses the GD32VF103 RISC-V SoC, developed by [GigaDevice](https://www.gigadevice.com/). 
+The Longan Nano board uses the GD32VF103 RISC-V SoC, the first RISC-V MCU, developed by [GigaDevice](https://www.gigadevice.com/). 
 The board also contains a USB-C conector, SPI RGB LCD display, RGB LED, microSD card slot and pins for JTAG debugging.
 
 The specific SoC used is the [GD32VF103CBT6](https://www.gigadevice.com/microcontroller/gd32vf103cbt6/), which has 128kB of Flash memory and 32 kB of SRAM.
-The CPU used is a Bumblebee uCore from [Nucleisys](https://www.nucleisys.com/)
+The CPU used is the Bumblebee uCore from [Nucleisys](https://www.nucleisys.com/), a RV32IMAC CPU.
 
 # Documentation
 - Sipeed Longan Nano
